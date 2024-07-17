@@ -1,0 +1,30 @@
+name = "my name is namratha jadhav"
+no_space_name = "" 
+for character in name:
+     no_space_name == character
+     print(no_space_name)
+
+
+name = "my name is namratha jadhav"
+for element  in name:
+     print(element)
+
+
+
+name = "namratha"
+surname = ""
+for i in name:
+     surname = i + surname
+     print("reverseed surnane" , surname)
+
+
+
+
+
+
+
+
+
+
+
+

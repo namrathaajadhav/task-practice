@@ -1,0 +1,3 @@
+user_input = ("Happy birthday krishna ji")
+print(user_input.startswith("Happy"))
+print(user_input.endswith("ji"))
